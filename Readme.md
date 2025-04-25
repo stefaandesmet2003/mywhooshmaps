@@ -26,3 +26,5 @@ The View | File Tree option is convenient, as is the option to hide/unhide track
 [Hudayriyat Map](https://gpx.studio/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fstefaandesmet2003%2Fmywhooshmaps%2Fmain%2FHudayriyat.gpx%22%5D)
 
 [MywhooshWorld Map](https://gpx.studio/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fstefaandesmet2003%2Fmywhooshmaps%2Fmain%2FMywhooshWorld.gpx%22%5D)
+
+[Japan Map](https://gpx.studio/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fstefaandesmet2003%2Fmywhooshmaps%2Fmain%2FJapan.gpx%22%5D)

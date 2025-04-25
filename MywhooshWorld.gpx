@@ -92,16 +92,6 @@
     <name>Polarview Complex</name>
     <sym>Information</sym>
   </wpt>
-  <wpt lat="24.998084" lon="-71.005868">
-    <ele>0</ele>
-    <name>Cyber Hub</name>
-    <sym>Information</sym>
-  </wpt>
-  <wpt lat="25.000713982912373" lon="-71.00496323216531">
-    <ele>0</ele>
-    <name>Twin Spires IS THIS CORRECT?</name>
-    <sym>Information</sym>
-  </wpt>
   <wpt lat="25.000575305684777" lon="-71.01392252109821">
     <ele>0</ele>
     <name>Hydropolis</name>
@@ -119,7 +109,7 @@
   </wpt>
   <wpt lat="24.999173" lon="-71.004188">
     <ele>0</ele>
-    <name>Crimson Sands | Elysium Tower | Cyber Hub</name>
+    <name>Crimson Sands | Elysium Tower (DOWN) | Cyber Hub (LEFT)</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="24.99648873082468" lon="-71.00587422453684">
@@ -175,6 +165,16 @@
   <wpt lat="25.01241615209662" lon="-71.00323789072408">
     <ele>0</ele>
     <name>Enchanted Forest</name>
+    <sym>Information</sym>
+  </wpt>
+  <wpt lat="25.00250854614879" lon="-71.00599312384524">
+    <ele>0</ele>
+    <name>Twin Spîres : Cyber Hub (LEFT) | Elysium Tower (RIGHT) | Ecospire (UP)</name>
+    <sym>Information</sym>
+  </wpt>
+  <wpt lat="24.999332" lon="-71.008716">
+    <ele>0</ele>
+    <name>CyberHub : Hydropolis (LEFT) | Elysium Tower | Twin Spires (UP)</name>
     <sym>Information</sym>
   </wpt>
   <trk>
@@ -14976,92 +14976,30 @@
     <extensions>
       <gpx_style:line>
         <gpx_style:color>000000</gpx_style:color>
+        <gpx_style:width>3</gpx_style:width>
       </gpx_style:line>
     </extensions>
     <trkseg>
       <trkpt lat="25.004837" lon="-71.016907">
         <ele>-70.2</ele>
-        <time>2025-02-05T13:22:35.000Z</time>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:cad>120</gpxtpx:cad>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension>
-            <gpxpx:PowerInWatts>230</gpxpx:PowerInWatts>
-          </gpxpx:PowerExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="25.004813" lon="-71.017025">
         <ele>-70.2</ele>
-        <time>2025-02-05T13:22:36.000Z</time>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:cad>120</gpxtpx:cad>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension>
-            <gpxpx:PowerInWatts>230</gpxpx:PowerInWatts>
-          </gpxpx:PowerExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="25.00481" lon="-71.017127">
         <ele>-70.2</ele>
-        <time>2025-02-05T13:22:37.000Z</time>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:cad>120</gpxtpx:cad>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension>
-            <gpxpx:PowerInWatts>230</gpxpx:PowerInWatts>
-          </gpxpx:PowerExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="25.00481" lon="-71.017245">
         <ele>-70.2</ele>
-        <time>2025-02-05T13:22:38.000Z</time>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:cad>120</gpxtpx:cad>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension>
-            <gpxpx:PowerInWatts>230</gpxpx:PowerInWatts>
-          </gpxpx:PowerExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="25.004813" lon="-71.017352">
         <ele>-70.2</ele>
-        <time>2025-02-05T13:22:39.000Z</time>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:cad>120</gpxtpx:cad>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension>
-            <gpxpx:PowerInWatts>230</gpxpx:PowerInWatts>
-          </gpxpx:PowerExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="25.004813" lon="-71.01747">
         <ele>-70.2</ele>
-        <time>2025-02-05T13:22:40.000Z</time>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:cad>120</gpxtpx:cad>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension>
-            <gpxpx:PowerInWatts>230</gpxpx:PowerInWatts>
-          </gpxpx:PowerExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="25.00481" lon="-71.017578">
         <ele>-70.2</ele>
-        <time>2025-02-05T13:22:41.000Z</time>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:cad>120</gpxtpx:cad>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension>
-            <gpxpx:PowerInWatts>230</gpxpx:PowerInWatts>
-          </gpxpx:PowerExtension>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>
